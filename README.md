@@ -1,1 +1,2 @@
 # Iphone-Assignment
+By using the MVVM architecture pattern, we are fetching a list of 100 music albums and their data from the server in this application. Two screens are here. One is showing the album image, artist name, and album name. The user will be able to access the Music Detailed panel by clicking on albums. There, the release date, copyright information, genres, artist name, and album name are displayed.
