@@ -4,7 +4,7 @@ Our Project Title is “Sample App”. The main goal of the project is to fetchi
 Project Description
 In this application, we are retrieving a list of 100 music albums along with their associated data from the server. We have two screens here. One displays the album cover, artist, and album title. By clicking on albums, the user can open the Music Detailed Screen. There are displayed the release date, copyright details, genres, artist name, and album name.
 
-We Repository Pattern to handle local and remote data sources in the application.
+We Use Repository Pattern to handle local and remote data sources in the application.
 Auto Layout/programmatic UI- We use Auto Layout/programmatic UI.
 Allow the user to retry the network call if it fails and there isn’t any data in the local database.
 Network error handling- network error is handle in application if error like status 500 internal server or other error.
