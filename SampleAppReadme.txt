@@ -13,7 +13,7 @@ Lazy image fetching Using cocoa Pod.
 Working on Xcode 13.3 version.
 
  How to Install and Run the Project
-for installing the project you have to visit  https://github.com/HimanshuUVE/Iphone-Assignment
+for installing the project you have to visit  https://github.com/HimanshuUVE/iPhone-Assignment
 
 	•	Click on code button.
 	•	Download the Zip file.
